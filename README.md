@@ -1,5 +1,2 @@
-# Where-Are-You-App
-This is an Android app which tells your location
-
-Developed using Android Studio
-Uses the GPS of the user to tell the details of its location like latitude, longitude, altitude, country, state, locality,etc.
+#Location_Tracker-Where_Are_You
+This is a location tracking App and send or share the coordinates of the location (Latitude and Longitude) by sending automatic SMS messages to a predefined phone number.
